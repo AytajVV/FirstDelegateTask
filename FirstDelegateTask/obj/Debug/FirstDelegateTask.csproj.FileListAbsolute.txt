@@ -1,0 +1,7 @@
+C:\Users\AytajVV\Desktop\FirstDelegateTask\FirstDelegateTask\bin\Debug\FirstDelegateTask.exe.config
+C:\Users\AytajVV\Desktop\FirstDelegateTask\FirstDelegateTask\bin\Debug\FirstDelegateTask.exe
+C:\Users\AytajVV\Desktop\FirstDelegateTask\FirstDelegateTask\bin\Debug\FirstDelegateTask.pdb
+C:\Users\AytajVV\Desktop\FirstDelegateTask\FirstDelegateTask\obj\Debug\FirstDelegateTask.csproj.AssemblyReference.cache
+C:\Users\AytajVV\Desktop\FirstDelegateTask\FirstDelegateTask\obj\Debug\FirstDelegateTask.csproj.CoreCompileInputs.cache
+C:\Users\AytajVV\Desktop\FirstDelegateTask\FirstDelegateTask\obj\Debug\FirstDelegateTask.exe
+C:\Users\AytajVV\Desktop\FirstDelegateTask\FirstDelegateTask\obj\Debug\FirstDelegateTask.pdb
