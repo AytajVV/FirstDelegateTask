@@ -18,11 +18,17 @@ namespace FirstDelegateTask
             Age = age;
             Salary = salary;
         }
-        
+       
         public void AverageSalary(Employee item)
         {
-
-           
+            int sum = 0;
+            int count = 0;
+            if (item.Age>20 && item.Age<40)
+            {
+                sum += item.Salary;
+                count++;
+            }
+            Console.WriteLine(sum/count);
         }
     }
 }

@@ -30,7 +30,7 @@ namespace FirstDelegateTask
             
             foreach (var item in list.FindAll(employee=>employee.Age>20 && employee.Age<40))
             {
-                
+                //item.AverageSalary(item);
                 sum += item.Salary;
                     count++;
             }
